@@ -8,6 +8,4 @@ Lightmode and Darkmode
 ### Input: 
 Day & Year 
 ### Output: 
-Date(dd/mm/yyyy)
-Week of the Year
-Leap Year(boolean) 
+Date(dd/mm/yyyy), Week of the Year, Leap Year(boolean) 
