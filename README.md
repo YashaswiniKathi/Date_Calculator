@@ -1,10 +1,13 @@
-# Date_Calculator
 
-A simple Flutter -based Date Calculator app.
+#  Date_Calculator
 
-Features:
-Input: __
-Day & Year __
-Output: __
-Date(dd/mm/yyyy),Week of the Year, Leap Year(boolean) __
-Lightmode and Darkmode switch
+A simple Flutter - based Date Calculator app.
+
+## Features
+Lightmode and Darkmode 
+### Input: 
+Day & Year 
+### Output: 
+Date(dd/mm/yyyy)
+Week of the Year
+Leap Year(boolean) 
